@@ -158,4 +158,8 @@ bcr.bar_chart_race(..., steps_per_period=40)
 
 ## 📄 License
 
-MIT License
+Copyright (c) 2024 ZhaoPengpeng1116
+
+本项目采用 [MIT License](LICENSE) 开源许可证。
+
+详见 [LICENSE](LICENSE) 文件了解更多信息。
